@@ -24,6 +24,7 @@ build = {
 	modules = {
 		["moon"] = "moon/init.lua",
 		["moon.all"] = "moon/all.lua",
+		["moon.commons"] = "moon/commons.lua",
 		["moonscript"] = "moonscript/init.lua",
 		["moonscript.compile"] = "moonscript/compile.lua",
 		["moonscript.compile.statement"] = "moonscript/compile/statement.lua",
